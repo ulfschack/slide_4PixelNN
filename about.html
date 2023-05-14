@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Incremental Slideshow</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    .image-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-container" id="imageContainer"></div>
+  <script>
+    const images = [
+      'p1.PNG',
+      'p2.PNG',
+      'p3.PNG',
+      'p4.PNG',
+      'p5.PNG',
+      'p6.PNG',
+      'p7.PNG',
+      'p8.PNG'
+    ];
+    let currentIndex = 0;
+
+    function showNextImage() {
+      if (currentIndex >= images.length) return;
+      const img = document.createElement('img');
+      img.src = images[currentIndex];
+      img.onerror = function() {
+        alert('Error loading image: ' + images[currentIndex]);
+      };
+      img.style.width = '100%';
+      img.style.height = 'auto';
+      document.getElementById('imageContainer').appendChild(img);
+      currentIndex++;
+    }
+
+    document.addEventListener('keydown', function(event) {
+      var key = event.key || event.keyCode;
+      if (key === 'ArrowRight' || key === 39) {
+        showNextImage();
+      }
+    });
+    
+
+    showNextImage();
+  </script>
+</body>
+</html>

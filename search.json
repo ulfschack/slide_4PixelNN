@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": ".",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.  # My Incremental Slideshow\n\n\n.element: class=“fragment” data-fragment-index=“2” \n.element: class=“fragment” data-fragment-index=“3” \n.element: class=“fragment” data-fragment-index=“4” –&gt;"
+  },
+  {
+    "objectID": "index.html#step-1",
+    "href": "index.html#step-1",
+    "title": ".",
+    "section": "Step 1",
+    "text": "Step 1\n\n\n\n\n\nImage 2\n\n\n\n\n\n\nImage 3\n\n\n\n\n\n\nImage 4"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
