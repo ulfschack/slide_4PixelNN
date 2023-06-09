@@ -11,11 +11,13 @@ mönster, typ vertikal, horisontell, diagonal eller enfärgad.
 Försök görs att förklara "back propagation" för elever som ännu inte vet vad derivering innebär, än mindre 
 kedjeregeln (matte 4).
 
-Fungerande kod och presentaion, till vad som skulle kunna vara en två-månaders kurs. Välkommna att ta o använda själv
-Hör av er ifall frågor osv :)
+Dock kanske inte helt fulltäckande, och borde nog presenteras tillsammans med undervisningb (tror jag föreläste 5 timmar)
+
+Fungerande kod och presentaion, till vad som skulle kunna vara en två-månaders kurs med övningar och frågor. 
+Välkomna att använda. Hör av er ifall frågor osv :)
 
 Hälsningar
 
 Ulf
 
-PS O ja just det ... Klicka på NNforts_4px.html (med länk bakåt) för hela. Annars finns även ipynb-filerna var för sig
+PS O ja just det ... Klicka på NNforts_4px.html (som har länkar till allt) för hela. Annars finns även ipynb-filerna var för sig
