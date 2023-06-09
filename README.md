@@ -1,7 +1,7 @@
 # slide_4PixelNN
 Simple NN - with Back Propagation - Swedish (highschool)
 
-Gymnasiekurs för 1:or (fast med matte lite högre). Jag tar exemplet om en enda neuron, utan aktiverinsgsfunktion,
+Gymnasiekurs för 1:or (fast med matte lite högre), i två delar. Jag tar exemplet om en enda neuron, utan aktiverinsgsfunktion,
 och visar hur även något sådant enkelt kan åstadkomma åtminstone något liknaknde y = kx + m, i form av anpassning
 á la linjär regression.
 
@@ -17,3 +17,5 @@ Hör av er ifall frågor osv :)
 Hälsningar
 
 Ulf
+
+PS O ja just det ... Klicka på NNforts_4px.html (med länk bakåt) för hela. Annars finns även ipynb-filerna var för sig
