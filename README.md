@@ -6,7 +6,7 @@ och visar hur även något sådant enkelt kan åstadkomma åtminstone något lik
 á la linjär regression.
 
 I uppföljningen provar vi en fyravärdig vektor som input i syfte att träna ett nätverk att skilja mellan de enklaste
-mönster, typ vertikal, horisontell, diagonal eller enfärgad. 
+mönster, typ vertikal, horisontell, diagonal eller enfärgad. Här introduceras också linjär algebra på ett mjukt sätt.
 
 Försök görs att förklara "back propagation" för elever som ännu inte vet vad derivering innebär, än mindre 
 kedjeregeln (matte 4).
