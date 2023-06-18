@@ -20,4 +20,7 @@ Hälsningar
 
 Ulf
 
-PS O ja just det ... Klicka på NNforts_4px.html, som har länkar till slides samt första enkla neuron-exemplet. Annars finns även ipynb-filerna var för sig
+PS O ja just det ... Klicka på NNforts_4px.html, som har länkar till slides samt första enkla neuron-exemplet. Annars finns även ipynb-filerna var för sig.  
+
+Jag har inklulderat tikztst.ipynb (samt en html-render av den) vilken kan vara en hjälp ifall man vill använda Jupyter Notebook för att generara sina Tikz-bilder, det finns en hel del man måste göra annorlunda där, än om man använder vanlig Latex-miljö, nämligen
+
